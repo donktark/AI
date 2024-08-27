@@ -1,4 +1,4 @@
-# Text Generation
+# LSTM Text Generation
 > [🔗LSTM 텍스트 생성](https://machinelearningmastery.com/text-generation-with-lstm-in-pytorch/)   
 [🔗Winnie-the-Pooh 텍스트 파일](https://www.gutenberg.org/ebooks/67098)
 <pre>

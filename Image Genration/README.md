@@ -1,4 +1,4 @@
-# DCGAN - Image Generation
+# DCGAN Image Generation
 > [🔗Pytorch DCGAN 번역 가이드]('https://tutorials.pytorch.kr/beginner/dcgan_faces_tutorial.html')    
 [🔗이미지 파일 출처 (Kaggle)](https://www.kaggle.com/datasets/erkamk/cat-and-dog-images-dataset) + [🔗PIXELS](https://www.pexels.com/search/cat/) 　　<span style="color: grey"> Github 리포지토리에는 일부만 첨부 </span>    
 <pre>
